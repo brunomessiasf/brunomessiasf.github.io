@@ -1,9 +1,15 @@
  .meuNome {
-    color: #25aa03;
+    color: #f8cc09;
     text-align: center;
     display: block;
     border: 2px solid coral;
     }
+.botao {
+    padding: 10px;
+    border-radius: 50px;
+    background-color: coral;
+    margin: 10px;
+}    
 
 #foto {
     display: inline-block;
@@ -13,7 +19,7 @@
     margin-left: -300px;
 
 }
-.descricao {
+#descricao {
     display: inline-block;
     color: #fcebcd;
     padding: 10px;
@@ -32,38 +38,52 @@
     color: #fcebcd;
   }
 
-  .resido {
+  #citacao {
+    padding: 20px;
+  }
+  
+  #resido {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
-    font-weight: 600;
+    font-size: 20px;
+     
   }
   h2 {
-    color: #25aa03;
+    color: #f8cc09;
+    margin-top: 50px;
   }
 
   .Lista  {
     display: block;
     list-style: none;
   }
-
+ul li:nth-child(odd) {
+    font-style: italic
+}
 
   .Comprometimento {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
+    margin-left: -50px;
   }
   .Paciência{
     font-size: 18px;
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px; 
   }
   .Foco{
     font-size: 18px;
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
   }
   .Determinação {
     font-size: 18px;
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
+  }
+  footer {
+    margin-top: 70px;
   }
