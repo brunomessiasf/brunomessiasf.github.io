@@ -10,6 +10,19 @@
     border-radius: 100px;
     padding: 10px;
     background-color: coral;
+    margin-left: -300px;
+
+}
+.descricao {
+    display: inline-block;
+    color: #fcebcd;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: coral;
+    margin: 20px;
+    border-color: coral;
+    position: absolute;
+    top: 30%
 
 }
 
