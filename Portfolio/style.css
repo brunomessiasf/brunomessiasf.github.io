@@ -1,6 +1,16 @@
  h1 {
     color: #25aa03;
+    text-align: center
+    ;
     }
+
+#foto {
+    display: inline-block;
+    border-radius: 100px;
+    padding: 10px;
+    background-color: coral;
+
+}
 
  body {
     background-color: #b3855bc7;
