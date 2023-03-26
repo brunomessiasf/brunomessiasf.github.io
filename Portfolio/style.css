@@ -1,19 +1,14 @@
-h1 {
+ h1 {
     color: #25aa03;
     }
 
-  
-  .descricao {
-    color: #fcebcd;
-  }
-
-  body {
-    background-color: #6d4913c7;
+ body {
+    background-color: #b3855bc7;
     text-align: center;
+    color: #fcebcd;
   }
 
   .resido {
-    color: #fcebcd;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
     font-weight: 600;
@@ -22,25 +17,29 @@ h1 {
     color: #25aa03;
   }
 
+  .Lista  {
+    display: block;
+    list-style: none;
+  }
 
 
   .Comprometimento {
     font-size: 18px;
-    color: #fcebcd;
     font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
   }
   .Paciência{
     font-size: 18px;
-    color: #fcebcd;
+    list-style: none;
     font-family: Arial, Helvetica, sans-serif;
   }
   .Foco{
     font-size: 18px;
-    color: #fcebcd;
+    list-style: none;
     font-family: Arial, Helvetica, sans-serif;
   }
   .Determinação {
     font-size: 18px;
-    color: #fcebcd;
+    list-style: none;
     font-family: Arial, Helvetica, sans-serif;
   }
