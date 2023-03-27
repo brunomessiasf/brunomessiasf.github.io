@@ -1,0 +1,90 @@
+#cabecalho {
+  position: fixed;
+  top: 0;
+  background-color: coral;
+  display: inline;
+  padding-right: 87%;
+  padding-left: 6px;
+  font-size: 59%;
+  margin: 5px;
+  border-radius: 100px;
+}
+
+#minha_foto {
+  margin-top: 5%;
+}
+
+.botao {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 12px;
+  background-color: coral;
+  border-radius: 200px;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#vqv {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#licoes_aprendidas {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  border: 2px solid coral;
+  border-radius: 4%;
+  padding: 30px;
+  margin-right: 88%;
+}
+
+#licoes_a_aprender {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  border: 2px solid coral;
+  border-radius: 4%;
+  padding: 30px;
+  margin-right: 88%;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 750px;
+  border: 3px solid coral;
+  padding: 20px;
+}
+
+.lado-direito {
+  display: inline-block;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: right;
+  margin-left: 700px;
+  margin-top: -270px;
+  margin-right: 90px;
+  border: 3px solid coral;
+  padding: 20px;
+}
+
+#tabela {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 3px solid coral;
+  margin-top: 2px;
+  margin-bottom: 50px;
+}
+
+.colunaA {
+  text-align: center;
+  border: 2px solid coral;
+}
+
+.colunaB {
+  text-align: center;
+  border: 2px solid coral;
+}
